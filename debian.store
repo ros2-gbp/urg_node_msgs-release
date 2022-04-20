@@ -1,1 +1,1 @@
-{"base": "e52d16e", "parent": "debian/rolling/urg_node_msgs", "previous": "4ffe849", "trim": "", "trimbase": ""}
+{"base": "0aaeaad", "parent": "debian/humble/urg_node_msgs", "previous": "b482d73", "trim": "", "trimbase": ""}
