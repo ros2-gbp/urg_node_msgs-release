@@ -1,3 +1,26 @@
+## urg_node_msgs (rolling) - 1.0.1-7
+
+The packages in the `urg_node_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling -t rolling urg_node_msgs` on `Tue, 13 Jun 2023 13:49:48 -0000`
+
+The `urg_node_msgs` package was released.
+
+Version of package(s) in repository `urg_node_msgs`:
+
+- upstream repository: https://github.com/ros-drivers/urg_node_msgs.git
+- release repository: https://github.com/ros2-gbp/urg_node_msgs-release.git
+- rosdistro version: `1.0.1-6`
+- old version: `1.0.1-6`
+- new version: `1.0.1-7`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## urg_node_msgs (rolling) - 1.0.1-4
 
 The packages in the `urg_node_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling urg_node_msgs` on `Tue, 06 Apr 2021 22:34:05 -0000`
