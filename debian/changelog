@@ -1,0 +1,26 @@
+ros-rolling-urg-node-msgs (1.0.1-8noble) noble; urgency=high
+
+  * add myself as maintainer (#4 <https://github.com/ros-drivers/urg_node_msgs/issues/4>)
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mfergs7@gmail.com>  Wed, 10 Jun 2020 00:00:00 -0000
+
+ros-rolling-urg-node-msgs (1.0.0-8noble) noble; urgency=high
+
+  * fix package.xml for linter tests (#3 <https://github.com/ros-drivers/urg_node_msgs/issues/3>)
+  * cmake cleanup (#2 <https://github.com/ros-drivers/urg_node_msgs/issues/2>)
+  * Moving urg_node_msgs repo to ros-drivers
+  * Merging repo for pull request
+  * Minor update to ROS 2 Bouncy
+  * ros2 ardent compliant
+  * Updated to use cmake 3.5
+  * Removed missing packages
+  * Removed old comments
+  * Initial commit of urg_node_msgs
+    Separated messages from urg_node package to faciliate porting to ros 2.
+  * Initial commit
+  * Contributors: Brett, Brett Ponsler, Karsten Knese, Marc Testier, MarcTestier, Tony Baltovski
+
+ -- Michael Ferguson <mfergs7@gmail.com>  Tue, 17 Mar 2020 00:00:00 -0000
+
+
